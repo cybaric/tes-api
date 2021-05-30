@@ -3,7 +3,7 @@ import 'package:hellow/post_result_model.dart';
 import 'package:hellow/user_model.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(MyApp()); //
 }
 
 class MyApp extends StatefulWidget {
